@@ -20,4 +20,4 @@ An INFJ type of person who loves working with codes and listening to talks (shou
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**[(your_linkedin_profile_link)](https://de.linkedin.com/in/brilliantbrilliant)https://de.linkedin.com/in/brilliantbrilliant
+- **[LinkedIn]** (https://de.linkedin.com/in/brilliantbrilliant)https://de.linkedin.com/in/brilliantbrilliant
