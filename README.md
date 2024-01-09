@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Brilliant ('he/him/his'), </h1>
+<h2 align="center">Hi 👋, I'm Brilliant ('he/him/his'), </h2>
 <h3 align="center">A student/programmer/neuroscientist from IDN and live currently in DEU</h3>
 
 - 🔭 I’m currently working on **EEG**
