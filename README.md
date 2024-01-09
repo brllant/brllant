@@ -1,10 +1,6 @@
 <!--
 **brllant/brllant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="left">
-![nothingisfunny](https://github.com/brllant/brllant/assets/144328167/2c64abb7-41d4-47bb-951a-915526e380c6)
-</p>
-
 ```yaml
 I'm Brilliant
 ```
