@@ -16,8 +16,8 @@ An INFJ type of person who loves working with codes and listening to talks (shou
 - 🔭 Working on: **EEG and Time-frequency analysis**
 - 🌍 Languages: **Matlab, Java, C/C++, Indonesian, English and German**
 - 📫 How to reach me: **brilliant.oe8891@mh-hannover.de**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- ⚡ Fun fact: the name is a real name
 
 ## Get in Touch 📬
 
-- **[LinkedIn]** (https://de.linkedin.com/in/brilliantbrilliant)https://de.linkedin.com/in/brilliantbrilliant
+- **[LinkedIn]** https://de.linkedin.com/in/brilliantbrilliant
