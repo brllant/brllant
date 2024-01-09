@@ -19,5 +19,5 @@ An INFJ type of person who loves working with codes and listening to talks (shou
 - ⚡ Fun fact: the name is a real name
 
 ## Get in Touch 📬
-
-- **[LinkedIn]** https://de.linkedin.com/in/brilliantbrilliant
+<img src="https://github.com/brllant/brllant/assets/144328167/e98a33f4-bfef-49a2-be41-e8d2a29bd129" alt="animated" width="40" height="30" />
+<br> https://de.linkedin.com/in/brilliantbrilliant
