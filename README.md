@@ -13,7 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hi 👋, I'm Brilliant ('he/him/his'), </h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+```yaml
+* I'm Brilliant *
+```
+
+<h3 align="center">Hi 👋, I'm Brilliant ('he/him/his'), </h2>
 <h3 align="center">A student/programmer/neuroscientist from IDN and live currently in DEU</h3>
 
 - 🔭 I’m currently working on **EEG**
@@ -21,6 +29,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Brainstorm**
 
 - 📫 How to reach me **brilliant.oe8891@mh-hannover.de**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
