@@ -4,7 +4,7 @@
 <h2 align="center"> 😏 Hi, I'm Brilliant </h2>
 <h3 align="center"> 💻 student/neuroscientist/programmer <br>
 🚶 he/him/his <br>
-🚀 IDR -> DEU
+🚀 IDN🇮🇩 -> DEU🇩🇪
 </h3>
 
 ## About Me 👋
