@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://github.com/brllant/brllant/assets/144328167/90f2c73b-257b-4acb-93bd-43258884dac8" alt="animated" width="300" height="300" />
 </p>
-<h2 align="center"> Hi, I'm Brilliant :) </h2>
-<h3 align="center"> student/neuroscientist/programmer <br>
-(he/him/his) <br>
+<h2 align="center"> 😏 Hi, I'm Brilliant </h2>
+<h3 align="center"> 💻 student/neuroscientist/programmer <br>
+🚶 he/him/his <br>
 🚀 IDR -> DEU
 </h3>
 
